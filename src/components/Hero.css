@@ -31,7 +31,7 @@
 
 /* Base Styles */
 .new-hero-section {
-  min-height: 100vh;
+  min-height: 130vh;
   display: flex;
   align-items: center;
   background: var(--bg-primary);
@@ -339,7 +339,7 @@
 /* ========== RESPONSIVE DESIGN ========== */
 
 /* Large Laptops (1200px and below) */
-@media (max-width: 1200px) {
+@media (max-width: 1280px) {
   .new-hero-container {
     max-width: 1140px;
     padding: 0 1.5rem;
@@ -757,7 +757,7 @@
 .new-hero-section {
   min-height: 100vh;
   height: 100vh;
-  max-height: 1000px;
+  max-height: 1200px;
 }
 
 /* Container query support (future-proofing) */

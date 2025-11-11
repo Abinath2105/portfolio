@@ -113,7 +113,7 @@ const Hero = () => {
             </a>
           </div>
           
-          <div className="new-hero-tech">
+          {/* <div className="new-hero-tech">
             <div className="new-hero-tech-label">Technologies</div>
             <div className="new-hero-tech-items">
               <span className="new-hero-tech-item">React</span>
@@ -123,7 +123,7 @@ const Hero = () => {
               <span className="new-hero-tech-item">CSS3</span>
               <span className="new-hero-tech-item">HTML5</span>
             </div>
-          </div>
+          </div> */}
         </div>
         
         <div className="new-hero-visual">
