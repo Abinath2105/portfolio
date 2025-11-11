@@ -87,7 +87,7 @@ body {
 /* Main Content - Scrollable area */
 .main-content {
   flex: 1;
-  margin-top: 100px; /* Match header height */
+  margin-top: 70px; /* Match header height */
   width: 100%;
 }
 

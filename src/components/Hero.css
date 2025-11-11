@@ -508,6 +508,7 @@
   
   .new-hero-scroll-indicator {
     bottom: 1.5rem;
+    display: none;
   }
 }
 
