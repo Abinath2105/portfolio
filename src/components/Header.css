@@ -371,7 +371,7 @@
   }
   
   .nav-links li:last-child {
-    margin-top: 1.5rem;
+    /* margin-top: 1.5rem; */
     padding-top: 0.875rem;
   }
   
